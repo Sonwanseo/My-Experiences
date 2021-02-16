@@ -19,4 +19,13 @@ repository that records what I have experienced so far and what I want to study 
 - Nest
 - Jest
 
-### ☀️ I want to study or interested in
+### ☀️ I want to study (more) or interested in (in order of priority)
+- React Native
+- Next
+- Koa
+- graphQL
+- Svelte
+- Go
+- Angular
+- ASP.net
+- AI
