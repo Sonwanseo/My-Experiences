@@ -18,3 +18,5 @@ repository that records what I have experienced so far and what I want to study 
 - Koa
 - Nest
 - Jest
+
+### ☀️ I want to study or interested in
