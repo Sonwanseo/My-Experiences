@@ -19,7 +19,7 @@ repository that records what I have experienced so far and what I want to study 
 - Nest
 - Jest
 - Next
-- 
+
 ### ☀️ I want to study (more) or interested in (in order of priority)
 - React Native
 - Koa
