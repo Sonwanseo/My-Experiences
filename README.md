@@ -20,9 +20,10 @@ repository that records what I have experienced so far and what I want to study 
 - Jest
 - Next
 - Spring Boot
+- React Native
 
 ### ☀️ I want to study (more) or interested in (in order of priority)
-- React Native
+- Recoil
 - Koa
 - graphQL
 - Svelte
