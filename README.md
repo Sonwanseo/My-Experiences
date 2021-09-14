@@ -25,17 +25,18 @@ repository that records what I have experienced so far and what I want to study 
 ### ☀️ I am interested in or want to study (more)
 - MobX
 - Recoil
+- Angular
+- Svelte
+- Android/iOS Native App
+- Electron (Desktop GUI)
+- graphQL
 - Koa
 - Kotlin
-- Android/iOS Native App
-- graphQL
-- Svelte
-- Go
-- Angular
+- Golang
 - ASP.net
+- Open Source Contribution
 - AI
 - Data Analysis
 - BlockChain
-- Open Source Contribution
 - OOP
 - FP
