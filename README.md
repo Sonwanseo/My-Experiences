@@ -22,12 +22,20 @@ repository that records what I have experienced so far and what I want to study 
 - Spring Boot
 - React Native
 
-### ☀️ I want to study (more) or interested in (in order of priority)
+### ☀️ I am interested in or want to study (more)
+- MobX
 - Recoil
 - Koa
+- Kotlin
+- Android/iOS Native App
 - graphQL
 - Svelte
 - Go
 - Angular
 - ASP.net
 - AI
+- Data Analysis
+- BlockChain
+- Open Source Contribution
+- OOP
+- FP
