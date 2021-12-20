@@ -15,14 +15,15 @@ repository that records what I have experienced so far and what I want to study 
 - React
 - Vue
 - Express
-- Koa
 - Nest
-- Jest
 - Next
 - Spring Boot
 - React Native
+- Expo
 
 ### ☀️ I am interested in or want to study (more)
+- Koa
+- Jest
 - MobX
 - Recoil
 - Angular
@@ -30,7 +31,6 @@ repository that records what I have experienced so far and what I want to study 
 - Android/iOS Native App
 - Electron (Desktop GUI)
 - graphQL
-- Koa
 - Kotlin
 - Golang
 - ASP.net
