@@ -6,7 +6,6 @@ repository that records what I have experienced so far and what I want to study 
 ### 🌙 I have experienced
 - C
 - C++
-- Python
 - Java
 - HTML
 - CSS
@@ -19,24 +18,20 @@ repository that records what I have experienced so far and what I want to study 
 - Next
 - Spring Boot
 - React Native
-- Expo
+- Recoil
+- Open Source Contribution
+- BlockChain
 
 ### ☀️ I am interested in or want to study (more)
-- Koa
-- Jest
-- MobX
-- Recoil
-- Angular
+- Zustand
 - Svelte
-- Android/iOS Native App
-- Electron (Desktop GUI)
+- Jest
+- Angular
 - graphQL
-- Kotlin
+- Electron (Desktop GUI)
 - Golang
-- ASP.net
-- Open Source Contribution
-- AI
+- Kotlin
 - Data Analysis
-- BlockChain
+- AI
 - OOP
 - FP
